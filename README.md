@@ -1,4 +1,4 @@
-#Oxide Computer Research Notes
+# Oxide Computer Research Notes
 
 This is a work in progress, to collect my research notes from trying to understand the work Oxide Computer is doing to create a new computer. This is collected entirely from my reading of publicly available materials, primarily their GitHub repositories. So keep in mind that it could be completely wrong.
 
