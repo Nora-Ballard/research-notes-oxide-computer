@@ -85,30 +85,31 @@ Note: These are notes, not a final product. I have tried to quote as I go, but t
 		- Hardware
 		-  Bluespec Simulator
 
-- [cobble](https://github.com/cbiffle/cobble-build/compare/master...oxidecomputer:main)
+#### [cobble](https://github.com/cbiffle/cobble-build/compare/master...oxidecomputer:main)
 	- Fork of a simple build system for modular software
 	- Used by Cobalt to build [Bluespec](https://github.com/B-Lang-org/bsc) interfaces and modules
 	- Added support for parsing and creating [TOML](https://en.wikipedia.org/wiki/TOML)
 
-- Bluespec 
+#### Bluespec 
 [Hardware Description Language](https://en.wikipedia.org/wiki/Hardware_description_language)
 > hardware description language (HDL) is a specialized computer language used to describe the structure and behavior of electronic circuits, and most commonly, digital logic circuits.
 
 
-- [oxidecomputer/cobalt](https://github.com/oxidecomputer/cobalt)
+#### [oxidecomputer/cobalt](https://github.com/oxidecomputer/cobalt)
 > Cobalt is a collection of Bluespec interfaces and modules, used by Oxide Computer to implement custom logic for its new computer. Since we developed some of these pieces on readily available development boards using a fully open source synthesis toolchain, we figured this work and the implementation of its build system may serve as practical examples for others on how to use Bluespec in their own projects.
-- [yosys](https://github.com/YosysHQ/yosys)
+
+#### [yosys](https://github.com/YosysHQ/yosys)
 	- Synthesis tool.
-- nextpnr
+#### nextpnr
 	- Portable FPGA place and route tool
 
 ![](https://camo.githubusercontent.com/3da7cc866a411e9f1552fae0ac2a455e9ac1dc7dfb6227b56a789ade0ff18e29/68747470733a2f2f692e696d6775722e636f6d2f3073706d6c42612e706e67)
 
-- target-gen
+#### target-gen
 	- forked
 	- allows for flashing ARM chips
 
--  [pyOCD](https://github.com/oxidecomputer/pyOCD)
+####  [pyOCD](https://github.com/oxidecomputer/pyOCD)
 	- Python package for programming and debugging Arm Cortex-M microcontrollers using multiple supported types of USB debug probes
 
 
